@@ -14,6 +14,6 @@ head.csv : list of NOAA database URL
 
 get_data.ipynb : update data by Selenium
 
-kp_index.ipynb : plot raw magneto field - K index - int. proton flux - int. electron flux data as Sum.pdf
+k_index.ipynb : plot raw magneto field - K index - int. proton flux - int. electron flux data as Sum.pdf
 
 
