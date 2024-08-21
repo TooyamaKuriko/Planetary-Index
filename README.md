@@ -5,11 +5,15 @@ Data source: NOAA GOES database
 File Description:
 
 int_pr.csv : GOES-16 integrate proton flux data
+
 int_el.csv : GOES-18 integrate electron flux data
+
 magneto.csv : GOES-16 Magnetometer data
+
 head.csv : list of NOAA database URL
 
 get_data.ipynb : update data by Selenium
+
 kp_index : plot raw magneto field - K index - int. proton flux - int. electron flux data as Sum.pdf
 
 
